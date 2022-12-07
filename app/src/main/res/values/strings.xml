@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My First Application</string>
+
+    //Strings MainActivity
+    <string name="text_name">Nombre</string>
+    <string name="text_last_name">Apellidos</string>
+    <string name="text_age">Edad</string>
+    <string name="text_btn_ok">Ok</string>
+    <string name="text_title_main_activity">Bienvenid@</string>
+    <string name="text_btn_products">Productos</string>
+
+    //Strings MainActivity2
+    <string name="text_btn_volver">Volver</string>
+    <string name="text_title_main_activity2">Page 2</string>
+
+    //Strings MainActivityList
+    <string name="text_title_products">Productos</string>
+
+</resources>
